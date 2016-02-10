@@ -10,3 +10,5 @@ Different screen sizes require different size assets. This table gives some basi
 | **xhdpi**   | 320 | 2     |
 | **xxhdpi**  | 480 | 3     |
 | **xxxhdpi** | 640 | 4     |
+
+[Source](http://developer.android.com/guide/practices/screens_support.html)
