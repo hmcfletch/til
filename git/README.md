@@ -8,3 +8,5 @@ TIL's about the Git
     - `git checkout master`
     - `git branch --merged`
     - `git branch -d old-merged-feature`
+* undo last commit 
+    - `git reset --soft HEAD~1`
