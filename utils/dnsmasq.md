@@ -18,6 +18,10 @@
 3. Test
     * ping -c 1 www.google.com
     * ping -c 1 this.is.a.test.&lt;YOUR LOCAL DOMAIN OR TLD&gt;
+4. Might need to add `127.0.0.1` to you Network Preferences:
+    1. `System Preference` > `Network` > `Advanced` > `DNS`
+    2. Click `+` then add `127.0.0.1`
+    3. Move to top of list
 
 ### Notes
 * Don't use `.dev`, [It's a real TLD](https://iyware.com/dont-use-dev-for-development/)
